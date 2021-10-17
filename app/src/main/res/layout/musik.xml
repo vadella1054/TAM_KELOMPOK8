@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="Musik Lampung"
+            android:textAlignment="center"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lagu daerah Lampung merupakan lagu yang masih sering dilantunkan dan dinyanyikan pada acara adat. Berikut ini merupakan lagu Lampung:"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Lipang Lipang Dang\n"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lirik Lagu Lipang Lipang Dang\n\nPang li pang dang li pang dang kilidang\nPang li pang dang sakik lipang jak kundang\nYu yupayu yupayu ku tekhima\nyu yupayu yupayu kaya dia\nApi penggali lawas pakai tembilang besi\nMekha nai awas awas mekha nai awas awas\nNayah muli membudi"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Salah satu lagu daerah Lampung yang terkenal yaitu Lipang Lipang Dang. Lagu ini bercerita tentang kisah cinta seorang bujang yang telah ditinggal oleh kekasihnya. Nadanya yang mendayu-dayu sangat cocok untuk didengarkan ketika suasana hati sedang kalut. Bait-bait dalam tiap liriknya berupa pantun yang mempunyai makna cukup jelas dan tegas. Makna yang terselip dari lagu daerah ini yaitu berhati-hatilah ketika membahas persoalan tentang cinta. Cinta dapat membuat seseorang menjadi buta dan tidak dapat berpikir secara jernih. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Sang Bumi Ruwai Jurai\n"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lirik Lagu Sang Bumi Ruwa Jurai\n\nJak ujung Danau Ranau\nDari ujung danau ranau\nTeliu di Way Kanan\nMelewati way kanan\n\nSampai pantai lawok jaoh\nsampai pantai laut jawa\nPesisir rik Pepadun\npesisir dan pepadun\nJadi sai delom lambang\nBersatu di dalam lambang\nLampung sai kaya-raya\nlampung yang kaya raya\n\nKik ram aga burasa\njika kita mau merasakan\nHujau ni pemandangan\nhijaunya pemandangan\nKupi lada di pematang\nkebon lada di pematang\nApi lagi cengkeh ni\n
+apalagi cengkehnya\n
+Telambun beruntaian\n
+Banyak beruntaian\n
+Tandani kemakmuran\n
+tandanya kemakmuran\n\nLampung sai…\n
+lampung satu,\n
+Sang bumi ruwa jurai\n
+Satu bumi dua macam\n\nCangget bara bulaku\n
+Penghormatan pemuka adat [Pepadun]\n
+Sembah jama saibatin\n
+Penghormatan pemuka adat [Sebatin]\n
+Sina gawi adat sikam\n
+itulah aturan adat kami\n
+Manjau rik sebambangan\n
+berkunjung dan larian\n
+Tari ragot rik melinting\n
+tari ragat melinting\n
+Ciri ni ulun Lampung\n
+tandanya orang lampung\n\nLampung sai…\n
+lampung satu,\n
+Sang bumi ruwa jurai\n
+Satu bumi dua macam"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Jika kamu mengartikan lagu ini dalam bahasa Indonesia makna akan yang tertera yaitu Satu Bumi Dua Macam. Lagu ini bercerita tentang letak geografis dari Provinsi Lampung itu sendiri. Kamu bisa dihadapkan dengan Lampung yang memiliki dua sisi yaitu mulai sisi pesisir dan juga pepadun atau masyarakat dengan pedalaman dan dataran tinggi. "
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:color/white"
+            android:text="  Bumi Lampung\n"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView76"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Lirik Lagu Bumi Lampung\n\nSangun kak jak zaman ho\n
+Lampung ghadu dikenal\n
+Hasilno kupi lado\n
+Jadi idaman kaum modal\n
+Wawai pemandangannyo\n
+Jak pinggegh Teluk Lampung\n
+Pek ulun besoko-soko\n
+Lamun gham di nggak gunung\n
+Sang Bumi Ghuwa Jughai\n
+Eno lambang sai agung\n
+Lapah gham jamo-jamo\n
+Guwai ngebangun bumi Lampung\n\nSang Bumi Ghuwa Jughai\n
+Eno lambang sai agung\n
+Lapah gham jamo-jamo\n
+Guwai ngebangun bumi Lampung"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView7"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sesuai dengan judulnya “Bumi Lampung” mengisahkan mengenai seluk beluk sumber daya alam pada Provinsi Lampung. Kekayaan alam tersebut sangat tergambarkan dari beberapa penggalan lirik seperti “Sangun kak jak zaman ho, Lampung ghadu dikenal, Hasilno kupi lado”. Pada lirik tersebut menjelaskan bahwa Lampung sejak zaman dahulu sudah terkenal akan hasil alam berupa kopi dan lada. Selain itu Bumi Lampung juga menceritakan tentang keindahan pemandangan alam yang dimilikinya. Hal ini jelas tertulis dalam lirik “Wawai pemandangannyo, Jak pinggegh Teluk Lampung, Pek ulun besoko-soko, Lamun gham di nggak gunung”. Dalam lagu ini juga memberikan pesan agar penduduk Lampung bisa menjaga kelestarian alam yang dimilikinnya bersama-sama sebagai tanda syukur atas kenikmatan yang Tuhan berikan."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:lineSpacingExtra="4sp"
+            android:text="Sumber = https://www.blibli.com/friends/blog/lagu-daerah-lampung-16/"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+</ScrollView>
